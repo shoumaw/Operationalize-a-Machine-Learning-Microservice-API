@@ -1,0 +1,9 @@
+^C(.devops) root@osboxes:/home/osboxes/Documents/Projects/DevOps_Microservices/project-ml-microservice-kubernetes# ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "microservice" already exists
+NAME                    READY   STATUS    RESTARTS   AGE
+kubectlmicroservice     1/1     Running   0          11m
+microservice            1/1     Running   0          25m
+shoumanmlmicroservice   1/1     Running   0          32m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
