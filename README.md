@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
-
+[![CircleCI](https://circleci.com/gh/shoumaw/Operationalize-a-Machine-Learning-Microservice-API
+.svg?style=svg)](https://app.circleci.com/pipelines/github/shoumaw/Operationalize-a-Machine-Learning-Microservice-API?branch=master)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
